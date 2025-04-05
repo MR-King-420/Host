@@ -69,7 +69,7 @@ def time_now(update: Update, context: CallbackContext):
 # মেইন ফাংশন
 def main():
     # টেলিগ্রাম বট টোকেন দিয়ে প্রতিস্থাপন করুন
-    TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+    TOKEN = "8175155559:AAGsAPC_-UWTf6CTlTn0yr1eKlMAbm3AjPw"
     updater = Updater(TOKEN, use_context=True)
     dp = updater.dispatcher
 
